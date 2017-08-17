@@ -8,3 +8,5 @@
 #### Yellow/Orange/Red Choropleth
 
 ![Yellow/Orange/Red Choropleth Example ](https://github.com/viableindustries/color-schemes/blob/master/YellowOrangeRed/example--mapbox.png)
+
+See `YellowOrangeRed/example--mapbox.html` for color usage.
